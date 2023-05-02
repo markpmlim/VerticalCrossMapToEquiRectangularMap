@@ -30,7 +30,7 @@ typedef struct {
  For the mathematically inclined, the equation of the line joining
  the 2 points (-1.0,  3.0), (3.0, -1.0) is
         y = -x + 2
- The point (1.0, 1.0) lie on this line. The other 3 points which make up
+ The point (1.0, 1.0) lies on this line. The other 3 points which make up
  the 2D clipspace lie on the lines x=-1 or x=1 or y=-1 or y=1
  */
 
